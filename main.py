@@ -1,0 +1,1 @@
+input.pin_is_pressed(TouchPin.P0)
